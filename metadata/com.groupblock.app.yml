@@ -1,0 +1,19 @@
+Categories:
+- Phone & SMS
+License: Unknown
+AuthorName: lyomagit
+WebSite: https://github.com/lyomagit/fdroid
+IssueTracker: https://github.com/lyomagit/fdroid/issues
+Name: Любимые коллеги
+Summary: Групповая блокировка звонков и сообщений
+Description: '<p>Групповая блокировка входящих звонков и SMS. Звонки и сообщения можно
+  фильтровать отдельно.</p><p>Диалоги, отправка обычных SMS, приём MMS и вложений.
+  Для сообщений требуется назначить приложение основным обработчиком SMS.</p><p>Версия-кандидат:
+  проверка MMS у оператора и конкретных моделей Huawei ещё не завершена. Исходящие
+  MMS-вложения не поддерживаются.</p>'
+AllowedAPKSigningKeys:
+- 6cea2ab13ca2a3c87b242d6adf478040efdec590049e0096a502ef204d1a6b2b
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersion: 2.3-rc1
+CurrentVersionCode: 5
